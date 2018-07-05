@@ -1,0 +1,3 @@
+E:\Work\DistributedCore\DistributedCore\MessageService\obj\Debug\netcoreapp2.0\MessageService.csproj.CoreCompileInputs.cache
+E:\Work\DistributedCore\DistributedCore\MessageService\obj\Debug\netcoreapp2.0\MessageService.AssemblyInfoInputs.cache
+E:\Work\DistributedCore\DistributedCore\MessageService\obj\Debug\netcoreapp2.0\MessageService.AssemblyInfo.cs

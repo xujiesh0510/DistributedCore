@@ -1,0 +1,11 @@
+E:\Work\DistributedCore\DistributedCore\consumer\bin\Debug\netcoreapp2.1\consumer.deps.json
+E:\Work\DistributedCore\DistributedCore\consumer\bin\Debug\netcoreapp2.1\consumer.runtimeconfig.json
+E:\Work\DistributedCore\DistributedCore\consumer\bin\Debug\netcoreapp2.1\consumer.runtimeconfig.dev.json
+E:\Work\DistributedCore\DistributedCore\consumer\bin\Debug\netcoreapp2.1\consumer.dll
+E:\Work\DistributedCore\DistributedCore\consumer\bin\Debug\netcoreapp2.1\consumer.pdb
+E:\Work\DistributedCore\DistributedCore\consumer\obj\Debug\netcoreapp2.1\consumer.csprojResolveAssemblyReference.cache
+E:\Work\DistributedCore\DistributedCore\consumer\obj\Debug\netcoreapp2.1\consumer.csproj.CoreCompileInputs.cache
+E:\Work\DistributedCore\DistributedCore\consumer\obj\Debug\netcoreapp2.1\consumer.AssemblyInfoInputs.cache
+E:\Work\DistributedCore\DistributedCore\consumer\obj\Debug\netcoreapp2.1\consumer.AssemblyInfo.cs
+E:\Work\DistributedCore\DistributedCore\consumer\obj\Debug\netcoreapp2.1\consumer.dll
+E:\Work\DistributedCore\DistributedCore\consumer\obj\Debug\netcoreapp2.1\consumer.pdb
