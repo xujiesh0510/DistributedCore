@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Consul;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -27,7 +28,7 @@ namespace ApiService1
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env,IApplicationLifetime applicationLifetime)
         {
             if (env.IsDevelopment())
             {
@@ -35,6 +36,43 @@ namespace ApiService1
             }
 
             app.UseMvc();
+            var ip = Configuration["ip"];
+            var port = Configuration["port"];
+            var serviceName = "MessageServce";
+            var serviceId = serviceName + Guid.NewGuid();
+            using (var consulClient = new ConsulClient(ConsulClientConfig))
+            {
+                consulClient.Agent.ServiceRegister(new AgentServiceRegistration
+                {
+                    Address = ip,
+                    Port = int.Parse(port),
+                    ID = serviceId,
+                    Name = serviceName,
+                    Check = new AgentServiceCheck
+                    {
+                        DeregisterCriticalServiceAfter = TimeSpan.FromSeconds(10),
+                        HTTP = $"http://{ip}:{port}/api/Health",
+                        Interval = TimeSpan.FromSeconds(5),
+                        Timeout = TimeSpan.FromSeconds(5)
+
+                    }
+                }).Wait();
+            }
+
+            applicationLifetime.ApplicationStopped.Register(() =>
+            {
+                using (var consulClient = new ConsulClient(ConsulClientConfig))
+                {
+                    Console.WriteLine("应用退出，从consul 退出");
+                    consulClient.Agent.ServiceDeregister(serviceId).Wait();
+                }
+            });
+        }
+
+        private void ConsulClientConfig(ConsulClientConfiguration c)
+        {
+            c.Address = new Uri("http://127.0.0.1:8500");
+            c.Datacenter = "dc1";
         }
     }
 }

@@ -9,3 +9,14 @@ C:\Users\xu\documents\visual studio 2017\Projects\Core\ApiService1\obj\Debug\net
 C:\Users\xu\documents\visual studio 2017\Projects\Core\ApiService1\obj\Debug\netcoreapp2.0\ApiService1.AssemblyInfo.cs
 C:\Users\xu\documents\visual studio 2017\Projects\Core\ApiService1\obj\Debug\netcoreapp2.0\ApiService1.dll
 C:\Users\xu\documents\visual studio 2017\Projects\Core\ApiService1\obj\Debug\netcoreapp2.0\ApiService1.pdb
+E:\Work\DistributedCore\DistributedCore\ApiService1\bin\Debug\netcoreapp2.0\ApiService1.deps.json
+E:\Work\DistributedCore\DistributedCore\ApiService1\bin\Debug\netcoreapp2.0\ApiService1.runtimeconfig.json
+E:\Work\DistributedCore\DistributedCore\ApiService1\bin\Debug\netcoreapp2.0\ApiService1.runtimeconfig.dev.json
+E:\Work\DistributedCore\DistributedCore\ApiService1\bin\Debug\netcoreapp2.0\ApiService1.dll
+E:\Work\DistributedCore\DistributedCore\ApiService1\bin\Debug\netcoreapp2.0\ApiService1.pdb
+E:\Work\DistributedCore\DistributedCore\ApiService1\obj\Debug\netcoreapp2.0\ApiService1.csprojResolveAssemblyReference.cache
+E:\Work\DistributedCore\DistributedCore\ApiService1\obj\Debug\netcoreapp2.0\ApiService1.csproj.CoreCompileInputs.cache
+E:\Work\DistributedCore\DistributedCore\ApiService1\obj\Debug\netcoreapp2.0\ApiService1.AssemblyInfoInputs.cache
+E:\Work\DistributedCore\DistributedCore\ApiService1\obj\Debug\netcoreapp2.0\ApiService1.AssemblyInfo.cs
+E:\Work\DistributedCore\DistributedCore\ApiService1\obj\Debug\netcoreapp2.0\ApiService1.dll
+E:\Work\DistributedCore\DistributedCore\ApiService1\obj\Debug\netcoreapp2.0\ApiService1.pdb

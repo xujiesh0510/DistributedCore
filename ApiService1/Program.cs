@@ -23,6 +23,7 @@ namespace ApiService1
                .Build();
             var ip = config["ip"];
             var port = config["port"];
+            Console.WriteLine($"http://{ip}:{port}");
             return
                 WebHost.CreateDefaultBuilder(args)
              .UseStartup<Startup>()
