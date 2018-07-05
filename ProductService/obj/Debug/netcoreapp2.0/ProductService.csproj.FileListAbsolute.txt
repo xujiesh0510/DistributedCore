@@ -1,0 +1,11 @@
+E:\Work\DistributedCore\DistributedCore\ProductService\bin\Debug\netcoreapp2.0\ProductService.deps.json
+E:\Work\DistributedCore\DistributedCore\ProductService\bin\Debug\netcoreapp2.0\ProductService.runtimeconfig.json
+E:\Work\DistributedCore\DistributedCore\ProductService\bin\Debug\netcoreapp2.0\ProductService.runtimeconfig.dev.json
+E:\Work\DistributedCore\DistributedCore\ProductService\bin\Debug\netcoreapp2.0\ProductService.dll
+E:\Work\DistributedCore\DistributedCore\ProductService\obj\Debug\netcoreapp2.0\ProductService.csprojResolveAssemblyReference.cache
+E:\Work\DistributedCore\DistributedCore\ProductService\obj\Debug\netcoreapp2.0\ProductService.csproj.CoreCompileInputs.cache
+E:\Work\DistributedCore\DistributedCore\ProductService\obj\Debug\netcoreapp2.0\ProductService.AssemblyInfoInputs.cache
+E:\Work\DistributedCore\DistributedCore\ProductService\obj\Debug\netcoreapp2.0\ProductService.AssemblyInfo.cs
+E:\Work\DistributedCore\DistributedCore\ProductService\bin\Debug\netcoreapp2.0\ProductService.pdb
+E:\Work\DistributedCore\DistributedCore\ProductService\obj\Debug\netcoreapp2.0\ProductService.dll
+E:\Work\DistributedCore\DistributedCore\ProductService\obj\Debug\netcoreapp2.0\ProductService.pdb
