@@ -1,3 +1,11 @@
+E:\Work\DistributedCore\DistributedCore\MessageService\bin\Debug\netcoreapp2.0\MessageService.deps.json
+E:\Work\DistributedCore\DistributedCore\MessageService\bin\Debug\netcoreapp2.0\MessageService.runtimeconfig.json
+E:\Work\DistributedCore\DistributedCore\MessageService\bin\Debug\netcoreapp2.0\MessageService.runtimeconfig.dev.json
+E:\Work\DistributedCore\DistributedCore\MessageService\bin\Debug\netcoreapp2.0\MessageService.dll
+E:\Work\DistributedCore\DistributedCore\MessageService\bin\Debug\netcoreapp2.0\MessageService.pdb
+E:\Work\DistributedCore\DistributedCore\MessageService\obj\Debug\netcoreapp2.0\MessageService.csprojResolveAssemblyReference.cache
 E:\Work\DistributedCore\DistributedCore\MessageService\obj\Debug\netcoreapp2.0\MessageService.csproj.CoreCompileInputs.cache
 E:\Work\DistributedCore\DistributedCore\MessageService\obj\Debug\netcoreapp2.0\MessageService.AssemblyInfoInputs.cache
 E:\Work\DistributedCore\DistributedCore\MessageService\obj\Debug\netcoreapp2.0\MessageService.AssemblyInfo.cs
+E:\Work\DistributedCore\DistributedCore\MessageService\obj\Debug\netcoreapp2.0\MessageService.dll
+E:\Work\DistributedCore\DistributedCore\MessageService\obj\Debug\netcoreapp2.0\MessageService.pdb

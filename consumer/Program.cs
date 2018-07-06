@@ -7,6 +7,7 @@ using RestTemplateCore;
 
 namespace consumer
 {
+   
     class Program
     {
         static void Main(string[] args)
@@ -21,7 +22,7 @@ namespace consumer
             var restTemplate = new RestTemplate(new HttpClient());
             restTemplate.ConsulServerUrl = "http://127.0.0.1:8500";
            var result = restTemplate.PostAsync("http://MessageServce/api/Message/Send",
-                new {To = "13312345678", Content = "hi"}).Result;
+                new SmsMessage { to = "13312345678", content = "hi"}).Result;
             Console.WriteLine(result.StatusCode);
         }
 
