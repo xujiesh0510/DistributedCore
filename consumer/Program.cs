@@ -19,10 +19,9 @@ namespace consumer
 
         private static void UseRestTemplateWay()
         {
-            var restTemplate = new RestTemplate(new HttpClient());
-            restTemplate.ConsulServerUrl = "http://127.0.0.1:8500";
-           var result = restTemplate.PostAsync("http://MessageServce/api/Message/Send",
-                new SmsMessage { to = "13312345678", content = "hi"}).Result;
+            var restTemplate = new RestTemplate(new HttpClient()) {ConsulServerUrl = "http://127.0.0.1:8500"};
+            var result = restTemplate.PostAsync("http://MessageServce/api/Message/Send",
+                new SmsMessage { To = "13312345678", Content = "hi"}).Result;
             Console.WriteLine(result.StatusCode);
         }
 
@@ -43,6 +42,7 @@ namespace consumer
                 c.Datacenter = "dc1";
             }))
             {
+                
                 var sevices = consulClient.Agent.Services().Result.Response
                     .Where(r => r.Value.Service.Equals("MessageServce", StringComparison.CurrentCultureIgnoreCase))
                     .Select(r => r.Value);

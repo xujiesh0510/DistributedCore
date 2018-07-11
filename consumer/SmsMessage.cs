@@ -2,13 +2,15 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace consumer
 {
     public class SmsMessage
     {
-        public string to { get; set; }
-
-        public string content { get; set; }
+        [JsonProperty("To")]
+        public string To { get; set; }
+        [JsonProperty("Content")]
+        public string Content { get; set; }
     }
 }

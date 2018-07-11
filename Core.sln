@@ -5,9 +5,11 @@ VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductService", "ProductService\ProductService.csproj", "{283800E2-ED71-4E60-9ACB-B513C289974F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consumer", "consumer\consumer.csproj", "{22F2A487-A306-441B-9118-954E2470AE4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "consumer", "consumer\consumer.csproj", "{22F2A487-A306-441B-9118-954E2470AE4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageService", "MessageService\MessageService.csproj", "{BF23BE70-0019-40B3-BB2A-AAE8327B2D21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageService", "MessageService\MessageService.csproj", "{BF23BE70-0019-40B3-BB2A-AAE8327B2D21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollyConsole", "PollyConsole\PollyConsole.csproj", "{835348FB-0C35-4D6C-8473-4CE005891E8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{BF23BE70-0019-40B3-BB2A-AAE8327B2D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF23BE70-0019-40B3-BB2A-AAE8327B2D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF23BE70-0019-40B3-BB2A-AAE8327B2D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{835348FB-0C35-4D6C-8473-4CE005891E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835348FB-0C35-4D6C-8473-4CE005891E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835348FB-0C35-4D6C-8473-4CE005891E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835348FB-0C35-4D6C-8473-4CE005891E8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
