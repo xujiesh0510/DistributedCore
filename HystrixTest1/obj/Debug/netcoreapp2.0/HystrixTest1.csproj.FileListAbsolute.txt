@@ -1,0 +1,11 @@
+E:\Work\DistributedCore\DistributedCore\HystrixTest1\obj\Debug\netcoreapp2.0\HystrixTest1.csproj.CoreCompileInputs.cache
+E:\Work\DistributedCore\DistributedCore\HystrixTest1\obj\Debug\netcoreapp2.0\HystrixTest1.AssemblyInfoInputs.cache
+E:\Work\DistributedCore\DistributedCore\HystrixTest1\obj\Debug\netcoreapp2.0\HystrixTest1.AssemblyInfo.cs
+E:\Work\DistributedCore\DistributedCore\HystrixTest1\bin\Debug\netcoreapp2.0\HystrixTest1.deps.json
+E:\Work\DistributedCore\DistributedCore\HystrixTest1\bin\Debug\netcoreapp2.0\HystrixTest1.runtimeconfig.json
+E:\Work\DistributedCore\DistributedCore\HystrixTest1\bin\Debug\netcoreapp2.0\HystrixTest1.runtimeconfig.dev.json
+E:\Work\DistributedCore\DistributedCore\HystrixTest1\bin\Debug\netcoreapp2.0\HystrixTest1.dll
+E:\Work\DistributedCore\DistributedCore\HystrixTest1\bin\Debug\netcoreapp2.0\HystrixTest1.pdb
+E:\Work\DistributedCore\DistributedCore\HystrixTest1\obj\Debug\netcoreapp2.0\HystrixTest1.csprojResolveAssemblyReference.cache
+E:\Work\DistributedCore\DistributedCore\HystrixTest1\obj\Debug\netcoreapp2.0\HystrixTest1.dll
+E:\Work\DistributedCore\DistributedCore\HystrixTest1\obj\Debug\netcoreapp2.0\HystrixTest1.pdb

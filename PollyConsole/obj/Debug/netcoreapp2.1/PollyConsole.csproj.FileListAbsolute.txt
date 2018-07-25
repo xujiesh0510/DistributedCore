@@ -1,0 +1,11 @@
+E:\Work\DistributedCore\DistributedCore\PollyConsole\bin\Debug\netcoreapp2.1\PollyConsole.deps.json
+E:\Work\DistributedCore\DistributedCore\PollyConsole\bin\Debug\netcoreapp2.1\PollyConsole.runtimeconfig.json
+E:\Work\DistributedCore\DistributedCore\PollyConsole\bin\Debug\netcoreapp2.1\PollyConsole.runtimeconfig.dev.json
+E:\Work\DistributedCore\DistributedCore\PollyConsole\bin\Debug\netcoreapp2.1\PollyConsole.dll
+E:\Work\DistributedCore\DistributedCore\PollyConsole\obj\Debug\netcoreapp2.1\PollyConsole.csprojResolveAssemblyReference.cache
+E:\Work\DistributedCore\DistributedCore\PollyConsole\obj\Debug\netcoreapp2.1\PollyConsole.csproj.CoreCompileInputs.cache
+E:\Work\DistributedCore\DistributedCore\PollyConsole\obj\Debug\netcoreapp2.1\PollyConsole.AssemblyInfoInputs.cache
+E:\Work\DistributedCore\DistributedCore\PollyConsole\obj\Debug\netcoreapp2.1\PollyConsole.AssemblyInfo.cs
+E:\Work\DistributedCore\DistributedCore\PollyConsole\bin\Debug\netcoreapp2.1\PollyConsole.pdb
+E:\Work\DistributedCore\DistributedCore\PollyConsole\obj\Debug\netcoreapp2.1\PollyConsole.dll
+E:\Work\DistributedCore\DistributedCore\PollyConsole\obj\Debug\netcoreapp2.1\PollyConsole.pdb

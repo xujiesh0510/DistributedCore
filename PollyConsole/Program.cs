@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 using Polly;
@@ -10,11 +11,70 @@ namespace PollyConsole
     {
         static void Main(string[] args)
         {
-            TestAsync().Wait();
+            TestResut();
 
             Console.ReadLine();
         }
 
+
+        static void TestM()
+        {
+//            Policy
+//                .Handle<Exception>()
+//                .WaitAndRetry(new[]
+//                {
+//                    TimeSpan.FromSeconds(1),
+//                    TimeSpan.FromSeconds(2),
+//                    TimeSpan.FromSeconds(3)
+//                }, (exception, timeSpan, context) => {
+//                    // do something    
+//                });
+
+          var policy =   Policy.Handle<Exception>().Retry(3, (exception, i, context) =>
+          {
+              Console.WriteLine("haha "+ context["methodName"]);
+          });
+            policy.Execute(c =>
+            {
+                Console.WriteLine(c["methodName"]);
+                throw new Exception("");
+            } , new Dictionary<string, object>() { { "methodName", "some method" } });
+        }
+
+        static void TestP()
+        {
+            var fallBackPolicy =
+                Policy<string>
+                    .Handle<Exception>()
+                    .Fallback("执行失败，返回Fallback");
+
+            var politicaWaitAndRetry =
+                Policy<string>
+                    .Handle<Exception>()
+                    .Retry(3, (ex, count) =>
+                    {
+                        Console.WriteLine("执行失败! 重试次数 {0}", count);
+                        Console.WriteLine("异常来自 {0}", ex.GetType().Name);
+                    });
+
+            var mixedPolicy = Policy.Wrap(fallBackPolicy, politicaWaitAndRetry);
+            var mixedResult = mixedPolicy.Execute(ThrowException);
+            Console.WriteLine($"执行结果: {mixedResult}");
+        }
+
+        static void TestResut()
+        {
+
+            var policyResult = Policy
+                .Handle<Exception>()
+                .RetryAsync()
+                .ExecuteAndCaptureAsync(() => Task.FromResult("222"));
+        }
+
+        static string ThrowException()
+        {
+            throw new ArgumentException();
+        }
 
         static async Task TestAsync()
         {

@@ -1,0 +1,11 @@
+E:\Work\DistributedCore\DistributedCore\ConsoleAop\bin\Debug\netcoreapp2.1\ConsoleAop.deps.json
+E:\Work\DistributedCore\DistributedCore\ConsoleAop\bin\Debug\netcoreapp2.1\ConsoleAop.runtimeconfig.json
+E:\Work\DistributedCore\DistributedCore\ConsoleAop\bin\Debug\netcoreapp2.1\ConsoleAop.runtimeconfig.dev.json
+E:\Work\DistributedCore\DistributedCore\ConsoleAop\bin\Debug\netcoreapp2.1\ConsoleAop.dll
+E:\Work\DistributedCore\DistributedCore\ConsoleAop\obj\Debug\netcoreapp2.1\ConsoleAop.csprojResolveAssemblyReference.cache
+E:\Work\DistributedCore\DistributedCore\ConsoleAop\obj\Debug\netcoreapp2.1\ConsoleAop.csproj.CoreCompileInputs.cache
+E:\Work\DistributedCore\DistributedCore\ConsoleAop\obj\Debug\netcoreapp2.1\ConsoleAop.AssemblyInfoInputs.cache
+E:\Work\DistributedCore\DistributedCore\ConsoleAop\obj\Debug\netcoreapp2.1\ConsoleAop.AssemblyInfo.cs
+E:\Work\DistributedCore\DistributedCore\ConsoleAop\bin\Debug\netcoreapp2.1\ConsoleAop.pdb
+E:\Work\DistributedCore\DistributedCore\ConsoleAop\obj\Debug\netcoreapp2.1\ConsoleAop.dll
+E:\Work\DistributedCore\DistributedCore\ConsoleAop\obj\Debug\netcoreapp2.1\ConsoleAop.pdb

@@ -1,0 +1,11 @@
+E:\Work\DistributedCore\DistributedCore\MongoTest\obj\Debug\netcoreapp2.1\MongoTest.csproj.CoreCompileInputs.cache
+E:\Work\DistributedCore\DistributedCore\MongoTest\obj\Debug\netcoreapp2.1\MongoTest.AssemblyInfoInputs.cache
+E:\Work\DistributedCore\DistributedCore\MongoTest\obj\Debug\netcoreapp2.1\MongoTest.AssemblyInfo.cs
+E:\Work\DistributedCore\DistributedCore\MongoTest\bin\Debug\netcoreapp2.1\MongoTest.deps.json
+E:\Work\DistributedCore\DistributedCore\MongoTest\bin\Debug\netcoreapp2.1\MongoTest.runtimeconfig.json
+E:\Work\DistributedCore\DistributedCore\MongoTest\bin\Debug\netcoreapp2.1\MongoTest.runtimeconfig.dev.json
+E:\Work\DistributedCore\DistributedCore\MongoTest\bin\Debug\netcoreapp2.1\MongoTest.dll
+E:\Work\DistributedCore\DistributedCore\MongoTest\bin\Debug\netcoreapp2.1\MongoTest.pdb
+E:\Work\DistributedCore\DistributedCore\MongoTest\obj\Debug\netcoreapp2.1\MongoTest.csprojResolveAssemblyReference.cache
+E:\Work\DistributedCore\DistributedCore\MongoTest\obj\Debug\netcoreapp2.1\MongoTest.dll
+E:\Work\DistributedCore\DistributedCore\MongoTest\obj\Debug\netcoreapp2.1\MongoTest.pdb
