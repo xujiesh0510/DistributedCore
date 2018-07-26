@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MongoTest", "MongoTest\Mong
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HystrixTest1", "HystrixTest1\HystrixTest1.csproj", "{5CEDC1A9-C68F-4F36-9BE2-8A4D21D0A18B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OceletWeb", "OceletWeb\OceletWeb.csproj", "{EE466EBF-F5E6-4B0E-9B4B-9B034B80FF05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{5CEDC1A9-C68F-4F36-9BE2-8A4D21D0A18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CEDC1A9-C68F-4F36-9BE2-8A4D21D0A18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CEDC1A9-C68F-4F36-9BE2-8A4D21D0A18B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE466EBF-F5E6-4B0E-9B4B-9B034B80FF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE466EBF-F5E6-4B0E-9B4B-9B034B80FF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE466EBF-F5E6-4B0E-9B4B-9B034B80FF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE466EBF-F5E6-4B0E-9B4B-9B034B80FF05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
