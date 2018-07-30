@@ -8,6 +8,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Ocelot.DependencyInjection;
+using Ocelot.Middleware;
 
 namespace OceletWeb
 {
@@ -24,6 +26,7 @@ namespace OceletWeb
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddOcelot(Configuration);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -35,6 +38,7 @@ namespace OceletWeb
             }
 
             app.UseMvc();
+            app.UseOcelot().Wait();
         }
     }
 }

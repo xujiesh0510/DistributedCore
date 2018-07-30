@@ -3,9 +3,9 @@ E:\Work\DistributedCore\DistributedCore\ProductService\bin\Debug\netcoreapp2.1\P
 E:\Work\DistributedCore\DistributedCore\ProductService\bin\Debug\netcoreapp2.1\ProductService.runtimeconfig.dev.json
 E:\Work\DistributedCore\DistributedCore\ProductService\bin\Debug\netcoreapp2.1\ProductService.dll
 E:\Work\DistributedCore\DistributedCore\ProductService\bin\Debug\netcoreapp2.1\ProductService.pdb
-E:\Work\DistributedCore\DistributedCore\ProductService\obj\Debug\netcoreapp2.1\ProductService.csprojResolveAssemblyReference.cache
 E:\Work\DistributedCore\DistributedCore\ProductService\obj\Debug\netcoreapp2.1\ProductService.csproj.CoreCompileInputs.cache
 E:\Work\DistributedCore\DistributedCore\ProductService\obj\Debug\netcoreapp2.1\ProductService.AssemblyInfoInputs.cache
 E:\Work\DistributedCore\DistributedCore\ProductService\obj\Debug\netcoreapp2.1\ProductService.AssemblyInfo.cs
 E:\Work\DistributedCore\DistributedCore\ProductService\obj\Debug\netcoreapp2.1\ProductService.dll
 E:\Work\DistributedCore\DistributedCore\ProductService\obj\Debug\netcoreapp2.1\ProductService.pdb
+E:\Work\DistributedCore\DistributedCore\ProductService\obj\Debug\netcoreapp2.1\ProductService.csprojResolveAssemblyReference.cache

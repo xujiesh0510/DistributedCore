@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAop", "ConsoleAop\Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MongoTest", "MongoTest\MongoTest.csproj", "{A3E4214E-BC44-4A5F-A305-105B040BF5E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HystrixTest1", "HystrixTest1\HystrixTest1.csproj", "{5CEDC1A9-C68F-4F36-9BE2-8A4D21D0A18B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HystrixTest1", "HystrixTest1\HystrixTest1.csproj", "{5CEDC1A9-C68F-4F36-9BE2-8A4D21D0A18B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OceletWeb", "OceletWeb\OceletWeb.csproj", "{EE466EBF-F5E6-4B0E-9B4B-9B034B80FF05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OceletWeb", "OceletWeb\OceletWeb.csproj", "{EE466EBF-F5E6-4B0E-9B4B-9B034B80FF05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "identity", "identity", "{ECE4145D-1D4B-423E-8506-737DFA3144D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
