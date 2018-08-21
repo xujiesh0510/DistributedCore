@@ -1,0 +1,8 @@
+E:\Work\DistributedCore\DistributedCore\Ocelot.Test\bin\Debug\netcoreapp2.0\Ocelot.Test.deps.json
+E:\Work\DistributedCore\DistributedCore\Ocelot.Test\bin\Debug\netcoreapp2.0\Ocelot.Test.runtimeconfig.json
+E:\Work\DistributedCore\DistributedCore\Ocelot.Test\bin\Debug\netcoreapp2.0\Ocelot.Test.runtimeconfig.dev.json
+E:\Work\DistributedCore\DistributedCore\Ocelot.Test\bin\Debug\netcoreapp2.0\Ocelot.Test.dll
+E:\Work\DistributedCore\DistributedCore\Ocelot.Test\obj\Debug\netcoreapp2.0\Ocelot.Test.csprojAssemblyReference.cache
+E:\Work\DistributedCore\DistributedCore\Ocelot.Test\obj\Debug\netcoreapp2.0\Ocelot.Test.csproj.CoreCompileInputs.cache
+E:\Work\DistributedCore\DistributedCore\Ocelot.Test\obj\Debug\netcoreapp2.0\Ocelot.Test.AssemblyInfoInputs.cache
+E:\Work\DistributedCore\DistributedCore\Ocelot.Test\obj\Debug\netcoreapp2.0\Ocelot.Test.AssemblyInfo.cs

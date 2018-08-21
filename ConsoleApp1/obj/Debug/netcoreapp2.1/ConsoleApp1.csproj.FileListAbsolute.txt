@@ -1,0 +1,7 @@
+E:\Work\DistributedCore\DistributedCore\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+E:\Work\DistributedCore\DistributedCore\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+E:\Work\DistributedCore\DistributedCore\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+E:\Work\DistributedCore\DistributedCore\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+E:\Work\DistributedCore\DistributedCore\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Work\DistributedCore\DistributedCore\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Work\DistributedCore\DistributedCore\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs

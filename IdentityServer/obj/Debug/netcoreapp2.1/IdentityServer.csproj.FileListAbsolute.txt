@@ -1,0 +1,14 @@
+E:\Work\DistributedCore\DistributedCore\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.deps.json
+E:\Work\DistributedCore\DistributedCore\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.json
+E:\Work\DistributedCore\DistributedCore\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.dev.json
+E:\Work\DistributedCore\DistributedCore\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.dll
+E:\Work\DistributedCore\DistributedCore\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csprojAssemblyReference.cache
+E:\Work\DistributedCore\DistributedCore\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csproj.CoreCompileInputs.cache
+E:\Work\DistributedCore\DistributedCore\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cache
+E:\Work\DistributedCore\DistributedCore\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cs
+E:\Work\DistributedCore\DistributedCore\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfoInputs.cache
+E:\Work\DistributedCore\DistributedCore\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfo.cs
+E:\Work\DistributedCore\DistributedCore\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorTargetAssemblyInfo.cache
+E:\Work\DistributedCore\DistributedCore\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.pdb
+E:\Work\DistributedCore\DistributedCore\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.dll
+E:\Work\DistributedCore\DistributedCore\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.pdb

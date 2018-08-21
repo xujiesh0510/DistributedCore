@@ -1,0 +1,14 @@
+E:\Work\DistributedCore\DistributedCore\ID4.Ocelot\bin\Debug\netcoreapp2.1\ID4.Ocelot.deps.json
+E:\Work\DistributedCore\DistributedCore\ID4.Ocelot\bin\Debug\netcoreapp2.1\ID4.Ocelot.runtimeconfig.json
+E:\Work\DistributedCore\DistributedCore\ID4.Ocelot\bin\Debug\netcoreapp2.1\ID4.Ocelot.runtimeconfig.dev.json
+E:\Work\DistributedCore\DistributedCore\ID4.Ocelot\bin\Debug\netcoreapp2.1\ID4.Ocelot.dll
+E:\Work\DistributedCore\DistributedCore\ID4.Ocelot\obj\Debug\netcoreapp2.1\ID4.Ocelot.csproj.CoreCompileInputs.cache
+E:\Work\DistributedCore\DistributedCore\ID4.Ocelot\obj\Debug\netcoreapp2.1\ID4.Ocelot.RazorAssemblyInfo.cache
+E:\Work\DistributedCore\DistributedCore\ID4.Ocelot\obj\Debug\netcoreapp2.1\ID4.Ocelot.RazorAssemblyInfo.cs
+E:\Work\DistributedCore\DistributedCore\ID4.Ocelot\obj\Debug\netcoreapp2.1\ID4.Ocelot.AssemblyInfoInputs.cache
+E:\Work\DistributedCore\DistributedCore\ID4.Ocelot\obj\Debug\netcoreapp2.1\ID4.Ocelot.AssemblyInfo.cs
+E:\Work\DistributedCore\DistributedCore\ID4.Ocelot\obj\Debug\netcoreapp2.1\ID4.Ocelot.RazorTargetAssemblyInfo.cache
+E:\Work\DistributedCore\DistributedCore\ID4.Ocelot\bin\Debug\netcoreapp2.1\ID4.Ocelot.pdb
+E:\Work\DistributedCore\DistributedCore\ID4.Ocelot\obj\Debug\netcoreapp2.1\ID4.Ocelot.dll
+E:\Work\DistributedCore\DistributedCore\ID4.Ocelot\obj\Debug\netcoreapp2.1\ID4.Ocelot.pdb
+E:\Work\DistributedCore\DistributedCore\ID4.Ocelot\bin\Debug\netcoreapp2.1\configuration.json
