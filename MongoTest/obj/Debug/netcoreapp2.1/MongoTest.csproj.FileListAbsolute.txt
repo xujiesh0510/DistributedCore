@@ -6,6 +6,7 @@ E:\Work\DistributedCore\DistributedCore\MongoTest\bin\Debug\netcoreapp2.1\MongoT
 E:\Work\DistributedCore\DistributedCore\MongoTest\bin\Debug\netcoreapp2.1\MongoTest.runtimeconfig.dev.json
 E:\Work\DistributedCore\DistributedCore\MongoTest\bin\Debug\netcoreapp2.1\MongoTest.dll
 E:\Work\DistributedCore\DistributedCore\MongoTest\bin\Debug\netcoreapp2.1\MongoTest.pdb
-E:\Work\DistributedCore\DistributedCore\MongoTest\obj\Debug\netcoreapp2.1\MongoTest.csprojResolveAssemblyReference.cache
 E:\Work\DistributedCore\DistributedCore\MongoTest\obj\Debug\netcoreapp2.1\MongoTest.dll
 E:\Work\DistributedCore\DistributedCore\MongoTest\obj\Debug\netcoreapp2.1\MongoTest.pdb
+E:\Work\DistributedCore\DistributedCore\MongoTest\obj\Debug\netcoreapp2.1\MongoTest.csprojAssemblyReference.cache
+E:\Work\DistributedCore\DistributedCore\MongoTest\bin\Debug\netcoreapp2.1\appsettings.json

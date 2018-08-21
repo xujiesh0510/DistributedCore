@@ -6,6 +6,6 @@ E:\Work\DistributedCore\DistributedCore\HystrixTest1\bin\Debug\netcoreapp2.0\Hys
 E:\Work\DistributedCore\DistributedCore\HystrixTest1\bin\Debug\netcoreapp2.0\HystrixTest1.runtimeconfig.dev.json
 E:\Work\DistributedCore\DistributedCore\HystrixTest1\bin\Debug\netcoreapp2.0\HystrixTest1.dll
 E:\Work\DistributedCore\DistributedCore\HystrixTest1\bin\Debug\netcoreapp2.0\HystrixTest1.pdb
-E:\Work\DistributedCore\DistributedCore\HystrixTest1\obj\Debug\netcoreapp2.0\HystrixTest1.csprojResolveAssemblyReference.cache
 E:\Work\DistributedCore\DistributedCore\HystrixTest1\obj\Debug\netcoreapp2.0\HystrixTest1.dll
 E:\Work\DistributedCore\DistributedCore\HystrixTest1\obj\Debug\netcoreapp2.0\HystrixTest1.pdb
+E:\Work\DistributedCore\DistributedCore\HystrixTest1\obj\Debug\netcoreapp2.0\HystrixTest1.csprojAssemblyReference.cache

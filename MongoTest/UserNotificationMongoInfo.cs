@@ -2,19 +2,20 @@
 using System.Collections.Generic;
 using System.Text;
 using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
 
 namespace MongoTest
 {
     public class UserNotificationMongoInfo 
     {
-        public ObjectId Id { get; set; }
+        public Guid Id { get; set; }
         public virtual int? TenantId { get; set; }
 
         public virtual long UserId { get; set; }
 
         public virtual int State { get; set; }
-
-        public virtual DateTime CreationTime { get { return DateTime.Now;} }
+        [BsonDateTimeOptions(Kind = DateTimeKind.Utc)]
+        public virtual DateTime CreationTime { get; set; }
 
         public virtual Guid Guid { get; set; }
 

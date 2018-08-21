@@ -8,3 +8,4 @@ E:\Work\DistributedCore\DistributedCore\MessageService\obj\Debug\netcoreapp2.0\M
 E:\Work\DistributedCore\DistributedCore\MessageService\obj\Debug\netcoreapp2.0\MessageService.AssemblyInfo.cs
 E:\Work\DistributedCore\DistributedCore\MessageService\obj\Debug\netcoreapp2.0\MessageService.dll
 E:\Work\DistributedCore\DistributedCore\MessageService\obj\Debug\netcoreapp2.0\MessageService.pdb
+E:\Work\DistributedCore\DistributedCore\MessageService\obj\Debug\netcoreapp2.0\MessageService.csprojAssemblyReference.cache

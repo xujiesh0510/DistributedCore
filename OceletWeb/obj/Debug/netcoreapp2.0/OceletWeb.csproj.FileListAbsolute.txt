@@ -7,9 +7,9 @@ E:\Work\DistributedCore\DistributedCore\OceletWeb\bin\Debug\netcoreapp2.0\Ocelet
 E:\Work\DistributedCore\DistributedCore\OceletWeb\bin\Debug\netcoreapp2.0\OceletWeb.runtimeconfig.dev.json
 E:\Work\DistributedCore\DistributedCore\OceletWeb\bin\Debug\netcoreapp2.0\OceletWeb.dll
 E:\Work\DistributedCore\DistributedCore\OceletWeb\bin\Debug\netcoreapp2.0\OceletWeb.pdb
-E:\Work\DistributedCore\DistributedCore\OceletWeb\obj\Debug\netcoreapp2.0\OceletWeb.csprojResolveAssemblyReference.cache
 E:\Work\DistributedCore\DistributedCore\OceletWeb\obj\Debug\netcoreapp2.0\OceletWeb.RazorAssemblyInfo.cache
 E:\Work\DistributedCore\DistributedCore\OceletWeb\obj\Debug\netcoreapp2.0\OceletWeb.RazorAssemblyInfo.cs
 E:\Work\DistributedCore\DistributedCore\OceletWeb\obj\Debug\netcoreapp2.0\OceletWeb.RazorTargetAssemblyInfo.cache
 E:\Work\DistributedCore\DistributedCore\OceletWeb\obj\Debug\netcoreapp2.0\OceletWeb.dll
 E:\Work\DistributedCore\DistributedCore\OceletWeb\obj\Debug\netcoreapp2.0\OceletWeb.pdb
+E:\Work\DistributedCore\DistributedCore\OceletWeb\obj\Debug\netcoreapp2.0\OceletWeb.csprojAssemblyReference.cache
